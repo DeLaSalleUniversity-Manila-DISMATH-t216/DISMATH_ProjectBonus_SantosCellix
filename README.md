@@ -25,3 +25,11 @@
 ####Searching numbers which are not in the list (2, 5, 12)
 ![](test8.jpg)![](test9.jpg)![](test10.jpg)
 ###For Binary search
+####Start
+![](test11.jpg)
+####Adding 6 numbers which are 2, 3, 7, 14, 99, and 107
+![](test12.jpg)![](test13.jpg)![](test14.jpg)
+####Searching numbers in the list (3, 7, and 99)
+![](test15.jpg)![](test16.jpg)![](test17.jpg)
+####Searching numbers which are not in the list (5, 88, 109)
+![](test18.jpg)![](test19.jpg)![](test20.jpg)
